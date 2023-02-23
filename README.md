@@ -35,4 +35,6 @@
 <br>
 <h2>🔗 - Deploy</h2>
 <br>
-<p>Acesse o projeto desenvolvido por mim através deste <a href="https://wgirnz.csb.app/">link</a>.</p>
+<ul>
+    <li>Acesse o projeto desenvolvido por mim através deste <a href="https://antlacerda.github.io/Redesign-Site-IFPB/">link</a>.</li>
+</ul>
